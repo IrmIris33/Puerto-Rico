@@ -57,8 +57,8 @@ class NavBar extends Component {
                     </NavDropdown>  
 
                     <div>
-                        <img src={image} alt="Search magnifying glass" />
-                        <p> test</p>
+                        <img className= "image" src={image} alt="Search magnifying glass" />
+                       
                     </div>
                 </Nav>
                     

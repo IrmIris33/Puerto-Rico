@@ -1,5 +1,5 @@
 #header {
-    position: fixed;
+    position: flex;
     top: 0;
     left: 0;
     width: 100%;
@@ -28,10 +28,18 @@
 }
 
 .NavBarContent {
+    margin-top: 5px;
+    margin-bottom: 5px;
     text-align: right;
-    margin-left: 290px;
-    font-size: 14px;
+    margin-left: 390px;
+    font-size: 16px;
     font-family: sans-serif;
-
-    
 }
+
+.image{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 15px;
+    height: 15px;    
+}
+

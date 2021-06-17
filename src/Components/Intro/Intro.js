@@ -4,13 +4,10 @@ export default function Intro() {
     
     return (
         <div>
-            <div className="notification">
-                <p>COVID-19 TEST REQUIREMENTS FOR ENTRY - LEARN MORE </p>
-            </div>
-
+            
             <div className="intro-videos">
             
-                <iframe width="1230" height="500" src="https://www.youtube.com/embed/b-FdyuIVDm4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe title="Puerto Rico" width="1350px" height="450px" src="https://www.youtube.com/embed/b-FdyuIVDm4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div> 
 
             <div className="header-title">
